@@ -1,0 +1,16 @@
+.spanList{
+    
+    margin-left: 20px;
+    width: 10%;
+}
+
+.container{
+    margin-top: 10px;
+    display:flex;
+    
+}
+
+.linkStyles{
+    text-decoration: none;
+    color: black
+}
