@@ -11,7 +11,7 @@
         - .map()
         - .indexOf()
         - Bootstrap
-        - css
+        - Css
 
 
 ### 2-) Spend Bill Gates Money App
