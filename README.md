@@ -10,7 +10,7 @@
         - nanoid()
         - .map()
         - .indexOf()
-        - bootstrap
+        - Bootstrap
         - css
 
 
@@ -26,6 +26,6 @@
         - .replace()
         - .toFixed()
         - parseInt()
-        - bootstrap
-        - css
+        - Bootstrap
+        - Css
         - @animated-react-number
