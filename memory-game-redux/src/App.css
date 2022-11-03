@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.element:active{
+  transition: transform 0.15s;
+  transform: translateX(-50%) rotateY(90deg);
+  position: relative;
+  perspective: 1000px;
+  transform-style: preserve-3d;
+  transform-origin: center right;
+}
+.points{
+  font-weight: bold;
+  font-size: 40px;
+  color:steelblue;
+}
+
+.point{
+  color:teal
+}
+.congr{
+  color:darkorange
+}
+
+
+
