@@ -43,7 +43,6 @@ function Receipt() {
               <h6 className="col-2 text-success">
                 ${handle(parseInt(item.count) * parseInt(item.productPrice))}
               </h6>
-              <text></text>
             </div>
           );
         })}

@@ -44,3 +44,12 @@
         - Bootstrap
         - Css
         - SetTimeout()
+
+### 4-) Markdown Previewer
+
+    Used Technologies:
+        - Redux toolkit
+        - useDispatch()
+        - useSelector()
+        - Css
+        - @react-markdown
