@@ -53,3 +53,19 @@
         - useSelector()
         - Css
         - @react-markdown
+
+### 5-) COVID-19 Tracker App
+
+    Used Technologies:
+        - Redux toolkit
+        - useDispatch()
+        - useSelector()
+        - Css
+        - @react-chartjs-2
+        - @chart.js
+        - .replace()
+        - parseInt()
+        - .map()
+        - @axios
+        - .toString()
+        - .toLocaleDateString()

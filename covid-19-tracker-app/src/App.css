@@ -1,0 +1,126 @@
+.App {
+  text-align: center;
+  background-color: #FAFAFA;
+  min-height: 100vh;
+}
+
+.statisticContainer{
+  width: 100%;
+  flex-direction: row;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+}
+
+.part {
+  border-radius: 5px;
+  margin-inline: 4%;
+  height: 89%;
+  width: 24%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dropdownContainer {
+  margin-top: 2%;
+  
+}
+
+.fontType {
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.blue {
+  background-color: #B1D7FE ;
+}
+
+.green {
+  background-color: #DDF6E2 ;
+  
+}
+
+.red {
+  background-color: #F4D7D7 ;
+  
+}
+
+.yellow {
+  background-color: #F4E1CA ;
+
+}
+
+.value {
+  font-weight:600;
+  margin-top: 10px;
+  font-size: 24px;
+}
+
+.update {
+   margin-top: 10px;
+    font-weight: 500;
+}
+
+.at{
+  font-weight: 500;
+
+}
+
+.date {
+  padding-inline-start: 20px;
+  padding-inline-end: 20px;
+  font-size: smaller;
+  margin-top: 4px;
+  color: #536578
+}
+
+.covid{
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.country {
+  margin-top: 10px;
+  font-weight:500;
+  font-size: large;
+}
+
+.lastBlue{
+  background-color: #5B79FF;
+  width: 100%;
+  height: 5%;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+} 
+.lastGreen{
+  background-color: #7EFB83;
+  width: 100%;
+  height: 5%;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+} 
+.lastRed{
+  background-color: #FA7077;
+  width: 100%;
+  height: 5%;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+} 
+.lastYellow{
+  background-color: #F2E678;
+  width: 100%;
+  height: 5%;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+} 
+
+.chart{
+  margin: 5%;
+}
