@@ -71,3 +71,20 @@
         - .toLocaleDateString()
         - useEffect()
         - useState()
+
+### 6-) Typing Speed App
+
+    Used Technologies:
+        - useState()
+        - useMemo() 
+        - useEffect()
+        - useRef()
+        - @react-modal
+        - @react-icons
+        - @reduxjs/toolkit
+        - useDispatch() 
+        - useSelector() 
+        - .slice()
+        - @react-countdown
+        - .toFixed()
+        - @react-router-dom
