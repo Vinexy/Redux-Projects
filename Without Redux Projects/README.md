@@ -1,4 +1,4 @@
-# React Projects
+# React Projects without Redux
 
     1-) Creating npm Custom Button Library
     2-) Writing Test in React for Emoji App
