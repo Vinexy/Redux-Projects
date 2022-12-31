@@ -1,0 +1,112 @@
+/* add css module styles here (optional) */
+
+.test {
+  margin: 2em;
+  padding: 0.5em;
+  border: 2px solid #000;
+  font-size: 2em;
+  text-align: center;
+}
+
+.primary{
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  background-color: rgba(68, 71, 75, 0.808);
+  border:thin;
+  color: rgb(225, 119, 235);
+  border-radius: 150px;
+  transition-delay: 0.1s;
+}
+.primary:hover {
+  background-color: rgba(106, 110, 116, 0.705);
+}
+.primary:active{
+  box-shadow: 0 0 3px 3px rgb(133, 5, 126);
+}
+
+.default{
+  background-color: #000;
+  border-color:rgb(126, 25, 0);
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  border-width: 1px;
+  border-radius: 7px;
+  transition-delay: 0.1s;
+  color: antiquewhite;
+}
+
+.default:hover{
+  border-color: rgba(129, 0, 0, 0.808);
+  color:rgba(128, 0, 0, 0.705);
+}
+.default:active{
+  box-shadow: 0 0 3px 3px rgb(145, 3, 3);
+}
+
+.dashed{
+  background-color: rgb(138, 2, 2);
+  border-color:gray;
+  border: dashed;
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  border-width: 0.2px;
+  border-radius: 10px;
+  transition-delay: 0.1s;
+  font-weight: bold;
+}
+
+.dashed:hover{
+  border-color: rgba(4, 4, 7, 0.808);
+  color:black;
+  background-color: rgb(170, 0, 0);
+}
+
+.dashed:active{
+  box-shadow: 0 0 3px 3px rgb(0, 0, 0);
+}
+
+.texty{
+  font-weight: bolder;
+  background-color: white;
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  border:none;
+  border-radius: 3px;
+  transition-delay: 0.1s;
+  color: rgb(46, 39, 39);
+}
+
+.texty:hover{
+  background-color: rgb(238, 234, 234);
+}
+
+.link{
+  font-weight: bold;
+  background-color: white;
+  color: rgb(192, 95, 5);
+  border: none;
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  border-radius: 3px;
+}
+
