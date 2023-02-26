@@ -76,18 +76,35 @@
 
     Used Technologies:
         - useState()
-        - useMemo() 
+        - useMemo()
         - useEffect()
         - useRef()
         - @react-modal
         - @react-icons
         - @reduxjs/toolkit
-        - useDispatch() 
-        - useSelector() 
+        - useDispatch()
+        - useSelector()
         - .slice()
         - @react-countdown
         - .toFixed()
         - @react-router-dom
+        - Css
+
+### 7-) Image to Text App
+
+    Used Technologies:
+        - useEffect()
+        - useRef()
+        - useState()
+        - @tesseractjs
+        - @react-advanced-cropper
+        - @react-copy-to-clipboard
+        - @lottie-react
+        - Tesseract.Recognize()
+        - navigator.mediaDevices.getDisplayMedia()
+        - CropperRef.current.getCanvas().toDataURL()
+        - alert()
+        - Css
 
 # Without Redux Projects
 
