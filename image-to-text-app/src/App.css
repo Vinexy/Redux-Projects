@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+  min-height:100vh;
+  background-color: #994C00;
+}
+
+.img{
+  width:45%; 
+  border-radius: 10px;
+  display: flex;
+}
+
+.title{
+  font-family:cursive;
+  color: yellow;
+  margin-top: 0%;
+}
+
+.choose{
+  font-family:cursive;
+  color: yellow;
+  margin-top: 260px;
+  text-align: center;
+}
+
+.cropShape{
+  margin: 0 5% 5% 5%;
+}
+
+.tArea{
+  padding: 10px;
+  font-size: large;
+  color: antiquewhite;
+  font-style: italic;
+  width: 45%;
+  border-radius: 10px;
+  background-color: #1C1F19;
+  align-items: center;
+}
+.croppedDiv{
+  padding: 10px;
+  justify-content: space-between;
+  flex-direction: row;
+  display: flex;
+}
+
+.cropBtn{
+  margin: 10px;
+  padding: 5px;
+  background-color: #663300;
+  color: yellow;
+  font-weight: bold;
+  font-family: cursive;
+  font-size: large;
+}
+
+.cropBtn:hover{
+  background-color: #994C00;
+}
+
+.cropBtn:active {
+  background-color: #994C00;
+  box-shadow: 0 5px yellow;
+  transform: translateY(2px);
+}
+
+.copyBtn{
+  padding: 5px;
+  background-color: #663300;
+  color: yellow;
+  font-weight: bold;
+  font-family: cursive;
+  font-size: large;
+}
+
+.copyBtn:hover{
+  background-color: #994C00;
+}
+
+.copyBtn:active {
+  background-color: #994C00;
+  box-shadow: 0 5px yellow;
+  transform: translateY(2px);
+}
